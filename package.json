@@ -1,0 +1,23 @@
+{
+  "name": "useless",
+  "version": "1.0.0",
+  "description": "![Vue.js Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/vue.svg)",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAfroBoy/useless.git"
+  },
+  "author": "ItzAfroBoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzAfroBoy/useless/issues"
+  },
+  "homepage": "https://github.com/ItzAfroBoy/useless#readme"
+}
