@@ -1,23 +1,29 @@
 {
-  "name": "useless",
+  "name": "itzafroboy",
   "version": "1.0.0",
-  "description": "![Vue.js Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/vue.svg)",
+  "description": "My hompage",
   "main": "script.js",
   "dependencies": {
-    "axios": "^0.21.1"
+    "postcss-cli": "^8.3.1",
+    "tailwindcss-zoom": "^1.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "postcss css/tailwind.css -o public/styles.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzAfroBoy/useless.git"
+    "url": "git+https://github.com/ItzAfroBoy/ItzAfroBoy.git"
   },
   "author": "ItzAfroBoy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ItzAfroBoy/useless/issues"
+    "url": "https://github.com/ItzAfroBoy/ItzAfroBoy/issues"
   },
-  "homepage": "https://github.com/ItzAfroBoy/useless#readme"
+  "homepage": "https://github.com/ItzAfroBoy/ItzAfroBoy#readme"
 }
