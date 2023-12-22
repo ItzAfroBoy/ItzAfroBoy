@@ -14,7 +14,7 @@
 -----|-----|-----
 </pre>
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=ItzAfroBoy&theme=onedark"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAfroBoy&layout=compact&theme=onedark&card_width=320"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAfroBoy&layout=compact&theme=onedark&card_width=300"/>
 <pre>
  __  __                          ____    ___                                             
 /\ \/\ \                        /\  _`\ /\_ \                     __                     
