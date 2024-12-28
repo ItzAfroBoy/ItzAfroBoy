@@ -13,6 +13,6 @@
 <pre>
 -----|-----|-----
 </pre>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=ItzAfroBoy&theme=onedark"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAfroBoy&layout=compact&theme=onedark&card_width=300"/>
+<img height=200 src="https://readme-stats.useless.live/api?username=ItzAfroBoy&theme=onedark"/>
+<img height=200 src="https://readme-stats.useless.live/api/top-langs/?username=ItzAfroBoy&layout=compact&theme=onedark&card_width=300"/>
 </div>
