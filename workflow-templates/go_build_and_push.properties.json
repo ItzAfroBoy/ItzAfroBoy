@@ -1,0 +1,12 @@
+{
+	"name": "Build and Push Go Module",
+	"description": "Builds a Go module and pushes it to go module proxy",
+	"iconName": "octicon upload",
+	"categories": [
+		"Go"
+	],
+	"filePatterns": [
+		"*.go",
+		"*.mod"
+	]
+}
